@@ -1,7 +1,7 @@
 class HelloController < ApplicationController
   def index
-    @message="Hello from the controller!"
+    @message="Yo!"
     @count=3
-    @bonus="This is another thing from the controller."
+    @bonus="This is a thing from the controller, too!"
   end
 end
