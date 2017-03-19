@@ -10,6 +10,8 @@ I'm a junior web developer learning his way around various languages. I've got a
 
 This little place will be where I try to put it all together with the magic of Rails. I expect a lot of it to be broken for a long time coming! Woo hoo! I'll be updating it as I go.
 
+You'll notice that I am taking **VERY DELIBERATE BABY STEPS**. This is on purpose. I like to be thorough, and I'm taking the time I have available to me to reinforce things I've already learned/skimmed over during my time at [Launch Academy](https://www.launchacademy.com/).
+
 If you want to see stuff I've worked on that works, check these out:
 
 **Boston Bar Review**

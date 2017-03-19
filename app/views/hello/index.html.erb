@@ -1,2 +1,18 @@
 <h1>Welcome to Froontown!</h1>
 <p>Yeah, I know. This site really sucks so far. But at least the Rails part is working!</p>
+
+<h2><%= @message %></h2>
+<p><%= @bonus %></p>
+
+<p>Adding some Ruby for shits and giggles:</p>
+<% for i in 1..@count %>
+  <li>This is a 'for' loop</li>
+<% end %>
+
+<% @count.times do %>
+  <li>This is a `.times` construct</li>
+<% end %>
+
+<% @count.times { %>
+  <li>This uses curly braces</li>
+<% } %>
