@@ -41,6 +41,10 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     arel (7.1.4)
+    autoprefixer-rails (6.7.7)
+      execjs
+    bootstrap-sass (3.2.0.2)
+      sass (~> 3.2)
     builder (3.2.3)
     capybara (2.13.0)
       addressable
@@ -196,6 +200,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  autoprefixer-rails
+  bootstrap-sass (~> 3.2.0)
   capybara
   factory_girl_rails
   jquery-rails
