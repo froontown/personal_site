@@ -13,12 +13,12 @@ This little place will be where I try to put it all together with the magic of R
 If you want to see stuff I've worked on that works, check these out:
 
 **Boston Bar Review**
-[github link](https://github.com/aimeebachari/boston-bar-review) | [Heroku](http://boston-bar-review.herokuapp.com/)
+[github](https://github.com/aimeebachari/boston-bar-review) | [Heroku](http://boston-bar-review.herokuapp.com/)
 
 * Boston Bar Review was a 2-week group project simulating a work environment at Launch Academy. Check it out!
 
 **SoundBug**
-[github link](https://github.com/froontown/sound_bug) | [Heroku](https://soundbug.herokuapp.com/)
+[github](https://github.com/froontown/sound_bug) | [Heroku](https://soundbug.herokuapp.com/)
 
 * SoundBug was initially a 2-week solo capstone project at Launch Academy. I plan on developing it more from the initial goal of "Make something that works" and "try to make it use React!" to incorporating tech like Wavesurfer.js, JavaScript instruments, and a few other ideas.
 
