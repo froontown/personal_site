@@ -12,6 +12,28 @@ This little place will be where I try to put it all together with the magic of R
 
 You'll notice that I am taking **VERY DELIBERATE BABY STEPS**. This is on purpose. I like to be thorough, and I'm taking the time I have available to me to reinforce things I've already learned/skimmed over during my time at [Launch Academy](https://www.launchacademy.com/).
 
+## Run This Locally
+
+If you'd like to run this yourself:
+
+```
+git clone https://github.com/froontown/personal_site.git
+cd personal_site
+bundle install
+rake db:create
+rake db:migrate
+```
+
+And for now, that should do it. Just run:
+
+```
+rails s
+```
+
+Then go to: `localhost:3000`
+
+## Working Stuff
+
 If you want to see stuff I've worked on that works, check these out:
 
 **Boston Bar Review**
